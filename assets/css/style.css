@@ -1701,7 +1701,7 @@ section {
 body{background-color:#eee;}
 
 #generic_price_table{
-	background-color: #f0eded;
+	background-color: #fafafb;
 }
 
 /*PRICE COLOR CODE START*/
@@ -1750,13 +1750,13 @@ body{background-color:#eee;}
 }
 
 #generic_price_table .generic_content .generic_price_btn a{
-	border: 1px solid #2ECC71; 
-    color: #2ECC71;
+	border: 1px solid #428bca; 
+    color: #428bca;
 } 
 
 #generic_price_table .generic_content.active .generic_head_price .generic_head_content .head_bg,
 #generic_price_table .generic_content:hover .generic_head_price .generic_head_content .head_bg{
-	border-color: #2ECC71 rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) #2ECC71;
+	border-color: #428bca rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) #428bca;
 	color: #fff;
 }
 
@@ -1767,11 +1767,11 @@ body{background-color:#eee;}
 
 #generic_price_table .generic_content:hover .generic_price_btn a,
 #generic_price_table .generic_content.active .generic_price_btn a{
-	background-color: #2ECC71;
+	background-color: #428bca;
 	color: #fff;
 } 
 #generic_price_table{
-	margin: 50px 0 50px 0;
+
     font-family: 'Raleway', sans-serif;
 }
 .row .table{
@@ -1817,7 +1817,7 @@ body{background-color:#eee;}
 }
 
 #generic_price_table .generic_content .generic_head_price .generic_price_tag{
-	padding: 0 0 20px;
+	padding: 0 0 15px;
 }
 
 #generic_price_table .generic_content .generic_head_price .generic_price_tag .price{
@@ -1864,10 +1864,10 @@ body{background-color:#eee;}
 }
 
 #generic_price_table .generic_content .generic_feature_list ul li{
-	font-family: "Lato",sans-serif;
-	font-size: 18px;
-	padding: 10px 0;
-	transition: all 0.3s ease-in-out 0s;
+  font-family: "Lato",sans-serif;
+  font-size: 15px;
+  padding: 5px 0;
+  transition: all 0.3s ease-in-out 0s;
 }
 #generic_price_table .generic_content .generic_feature_list ul li:hover{
 	transition: all 0.3s ease-in-out 0s;
@@ -1892,9 +1892,9 @@ body{background-color:#eee;}
 	-webkit-border-radius: 50px;
     display: inline-block;
     font-family: "Lato",sans-serif;
-    font-size: 18px;
+    font-size: 14px;
     outline: medium none;
-    padding: 12px 30px;
+    padding: 7px 30px;
     text-decoration: none;
     text-transform: uppercase;
 }

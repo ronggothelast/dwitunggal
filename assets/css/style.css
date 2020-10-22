@@ -2812,3 +2812,9 @@ body {
   font-weight: 700;
   letter-spacing: 2px;
 }
+
+.section-title1 .seribu {
+  font-weight: 700;
+  letter-spacing: 2px;
+  font-family: Arial, Helvetica, sans-serif !important;
+}
